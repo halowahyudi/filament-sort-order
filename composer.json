@@ -1,5 +1,5 @@
 {
-  "name": "ibrahimbougaoua/filament-sort-order",
+  "name": "halowahyudi/filament-sort-order",
   "description": "This is my package filament-sort-order",
   "keywords": [
     "ibrahimBougaoua",
@@ -70,5 +70,11 @@
     }
   },
   "minimum-stability": "dev",
-  "prefer-stable": true
+  "prefer-stable": true,
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/halowahyudi/filament-sort-order"
+    }
+  ]
 }
