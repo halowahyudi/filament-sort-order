@@ -70,11 +70,5 @@
     }
   },
   "minimum-stability": "dev",
-  "prefer-stable": true,
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/halowahyudi/filament-sort-order"
-    }
-  ]
+  "prefer-stable": true
 }
